@@ -75,7 +75,10 @@ Markdown
 
 | **Home Interface** | **Recommendations Grid** |
 |:---:|:---:|
-<img width="1857" height="968" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/066d46ac-4a08-4b62-b963-4f439e079f77" /><img width="1850" height="960" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/42045703-8745-4a83-b046-717c717af0b1" />
+<img width="1857" height="968" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/2cce1fc0-518d-4f94-9a85-aea38942b57b" />
+<img width="1850" height="960" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/bb3f28ed-91fe-4920-af6e-747af25e70db" />
+
+
 
 
 
@@ -141,4 +144,5 @@ A: The app includes auto-retry logic, but if you click too fast, TMDB might paus
 
 
 <p align="center"> Built with ❤️ by Richin </p>
+
 
