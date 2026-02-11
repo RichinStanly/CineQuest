@@ -72,7 +72,9 @@ Markdown
 
 | **Home Interface** | **Recommendations Grid** |
 |:---:|:---:|
-| ![Home](https://via.placeholder.com/600x300?text=Home+Screen+Screenshot) | ![Grid](https://via.placeholder.com/600x300?text=Results+Screenshot) |
+<img width="1857" height="968" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/066d46ac-4a08-4b62-b963-4f439e079f77" /><img width="1850" height="960" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/42045703-8745-4a83-b046-717c717af0b1" />
+
+
 
 ---
 
@@ -133,5 +135,6 @@ A: For security reasons, API keys should never be shared publicly. You must use 
 Q: I get a "Rate Limit" error?
 
 A: The app includes auto-retry logic, but if you click too fast, TMDB might pause you. Just wait 5 seconds and try again.
+
 
 <p align="center"> Built with ❤️ by Richin </p>
