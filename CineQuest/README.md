@@ -15,7 +15,8 @@
 
 | **Home Interface** | **Recommendations Grid** |
 |:---:|:---:|
-| <img width="800" alt="Home Screen" src="[https://github.com/user-attachments/assets/2cce1fc0-518d-4f94-9a85-aea38942b57b](https://github.com/user-attachments/assets/2cce1fc0-518d-4f94-9a85-aea38942b57b)" /> | <img width="800" alt="Results Grid" src="[https://github.com/user-attachments/assets/bb3f28ed-91fe-4920-af6e-747af25e70db](https://github.com/user-attachments/assets/bb3f28ed-91fe-4920-af6e-747af25e70db)" /> |
+| <img width="800" alt="Home Screen" src= <img width="1857" height="968" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/6fb06366-6ff1-4352-8ea6-946fabaabb97" />
+| <img width="1850" height="960" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/26e85e32-de48-4f2d-a5b8-14b1323d20bd" />|
 
 ---
 
@@ -79,3 +80,4 @@ A: The app includes auto-retry logic, but if you click too fast, TMDB might paus
 <p align="center">
 Built with ❤️ by Richin
 </p>
+
