@@ -34,7 +34,7 @@
 ### ⚡ Quick Start (Terminal Commands)
 Run these commands in order to set up the project environment:
 
-```bash
+bash
 # 1. Clone the repository
 git clone https://github.com/RichinStanly/CineQuest.git
 cd CineQuest
@@ -79,6 +79,7 @@ A: The app includes auto-retry logic, but if you click too fast, TMDB might paus
 <p align="center">
 Built with ❤️ by Richin
 </p>
+
 
 
 
