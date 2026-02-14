@@ -64,6 +64,7 @@ Open app.py, find api_key = "..." (around line 45), and paste your key.
 streamlit run app.py
 
 ❓ FAQ / Troubleshooting
+
 Q: Why do I have to download data manually?
 
 A: GitHub has a 100MB file limit. The dataset and the generated model files (.pkl) are too large to upload directly, so you generate them locally.
@@ -77,6 +78,7 @@ Q: I get a "Rate Limit" error?
 A: The app includes auto-retry logic, but if you click too fast, TMDB might pause you. Just wait 5 seconds and try again.
 
 <p align="center">Built with ❤️ by Richin </p>
+
 
 
 
