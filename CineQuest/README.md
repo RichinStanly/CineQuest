@@ -76,9 +76,8 @@ Q: I get a "Rate Limit" error?
 
 A: The app includes auto-retry logic, but if you click too fast, TMDB might pause you. Just wait 5 seconds and try again.
 
-<p align="center">
-Built with ❤️ by Richin
-</p>
+<p align="center">Built with ❤️ by Richin </p>
+
 
 
 
